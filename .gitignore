@@ -4,6 +4,8 @@
 *.iml
 build/
 *.apk
+local.properties
+allfileshas.txt
 
 # Python
 venv/
